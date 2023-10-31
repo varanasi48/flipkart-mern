@@ -1,5 +1,5 @@
 // const nodeMailer = require('nodemailer');
-const sgMail = require('@sendgrid/mail')
+/*const sgMail = require('@sendgrid/mail')
 sgMail.setApiKey(process.env.SENDGRID_API_KEY);
 
 const sendEmail = async (options) => {
@@ -36,4 +36,4 @@ const sendEmail = async (options) => {
     });
 };
 
-module.exports = sendEmail;
+module.exports = sendEmail;*/
